@@ -1,6 +1,6 @@
 # OIer-Fantastic-Time
 专为各种稀奇古怪的OIer准备的福利
-# $\color{blue}{\text{Welcome To}}$ $\color{green}{\text{Hochoclate713's}}$ $\color{red}{\text{Homepage}}$
+# $\color{blue}{\text{这是一个}}$ $\color{green}{\text{由Hochoclate_713精心整理的}$ $\color{red}{\text{OIer养成记}}$
 
 Hochoclate_713,某人喜欢叫他霍克
 ~~别问我,我也不知道啊~~😕
