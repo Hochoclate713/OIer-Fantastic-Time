@@ -1,11 +1,9 @@
-# OIer-Fantastic-Time
-专为各种稀奇古怪的OIer准备的福利
-# $\color{blue}{\text{这是一个}}$ $\color{green}{\text{由Hochoclate_713精心整理的}$ $\color{red}{\text{OIer养成记}}$
+# $\color{blue}{\text{This Is A}}$ $\color{green}{\text{Wonderful Time For every}}$ $\color{red}{\text{OIer}}$
 
-Hochoclate_713,某人喜欢叫他霍克
-~~别问我,我也不知道啊~~😕
+这是Hochoclate713精心为各位稀奇古怪OIer整理的福利......
+~~水题呢awa~~😕
 
-[个人Oj][（传送门）](https://hydro.ac/d/Hochoclate_713_OJ/)
+[我办的个人Oj][（传送门）](https://hydro.ac/d/Hochoclate_713_OJ/)
 
 本人是一个小菜鸡,有些地方做的不是很好,谅解一下吧！
 
